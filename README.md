@@ -14,7 +14,7 @@
 
 
 ### Spotify Playing
-[![Spotify](https://yuriipereverziev.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yuriipereverziev)
+[![Spotify](https://novatorem-xi-roan-94.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yuriipereverziev)
 
 <p align="left">
     <img src="https://img.shields.io/static/v1?label=telegram&message=Write%20Me&color=2CA5E0&logo=telegram&style=for-the-badge">
@@ -65,3 +65,5 @@
 </p>
 
 [//]: # (<img src="https://github-readme-stats.vercel.app/api?username=Umorph&show_icons=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umorph&layout=compact&hide=html" alt="languages">)
+
+
