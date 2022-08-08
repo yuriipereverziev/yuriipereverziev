@@ -14,8 +14,7 @@
 
 
 ### Spotify Playing
-[<img src="https://spotify-readme-yuriipereverziev.vercel.app/api/spotify-playing" width=""350" />](https://open.spotify.com/user/yuriipereverziev)
-[<img src="https://spotify-readme-yuriipereverziev.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/{USER_NAME})
+[<img src="https://spotify-readme-yuriipereverziev.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/yuriipereverziev)
 <p align="left">
     <img src="https://img.shields.io/static/v1?label=telegram&message=Write%20Me&color=2CA5E0&logo=telegram&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?label=gmail&message=Reveal&color=00af97&logo=gmail&style=for-the-badge">
