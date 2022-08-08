@@ -15,8 +15,7 @@
 
 ### Spotify Playing
 <p align="left">
-<img src="https://spotify-readme-yuriipereverziev.vercel.app/api/spotify" alt="Spotify Playing" width="350" />
-(https://open.spotify.com/user/2de618a674dc4ab981c961613b6cbea8)
+    [<img src="https://spotify-readme-yuriipereverziev.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/2de618a674dc4ab981c961613b6cbea8)
 </p>
 
 <p align="left">
