@@ -15,7 +15,7 @@
 
 ### Spotify Playing
 
-[![Spotify](https://yuriipereverziev.vercel.app/api/spotify)](https://open.spotify.com/user/yuriipereverziev)
+[![Spotify](https://https://spotify-readme-beige.vercel.app/api/spotify)](https://open.spotify.com/user/yuriipereverziev)
 
 
 <p align="left">
