@@ -14,9 +14,9 @@
 
 
 ### Spotify Playing
-<p align="left">
-    [![Spotify](https://yuriipereverziev.vercel.app/api/spotify)](https://open.spotify.com/user/yuriipereverziev)
-</p>
+
+[![Spotify](https://yuriipereverziev.vercel.app/api/spotify)](https://open.spotify.com/user/yuriipereverziev)
+
 
 <p align="left">
     <img src="https://img.shields.io/static/v1?label=telegram&message=Write%20Me&color=2CA5E0&logo=telegram&style=for-the-badge">
