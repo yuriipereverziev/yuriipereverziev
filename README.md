@@ -8,6 +8,13 @@
 
 <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif">
 
+[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) 
+[![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) 
+[![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+
+
+### Spotify Playing
+[<img src="https://https://spotify-readme-yuriipereverziev.vercel.app/api/spotify-playing" width=""350" />](https://open.spotify.com/user/2de618a674dc4ab981c961613b6cbea8)
 <p align="left">
     <img src="https://img.shields.io/static/v1?label=telegram&message=Write%20Me&color=2CA5E0&logo=telegram&style=for-the-badge">
     <img src="https://img.shields.io/static/v1?label=gmail&message=Reveal&color=00af97&logo=gmail&style=for-the-badge">
@@ -21,7 +28,6 @@
 
   - ⚡ Fun fact **Using a light theme attracts a lot of bugs at night**
 
-[//]: # ([![trophy]&#40;https://github-profile-trophy.vercel.app/?username=Umorph&margin-w=15&theme=flat&#41;]&#40;https://github.com/ryo-ma/github-profile-trophy&#41;)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technologies & Tools
 
