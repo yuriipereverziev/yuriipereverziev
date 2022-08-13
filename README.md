@@ -9,10 +9,13 @@
 ### Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&cover_image=true&theme=novatorem&bar_color=24d71d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&redirect=true)
 
+
 <p align="left">
-    <img src="https://img.shields.io/static/v1?label=telegram&message=Write%20Me&color=2CA5E0&logo=telegram&style=for-the-badge">
-    <img src="https://img.shields.io/static/v1?label=gmail&message=Reveal&color=00af97&logo=gmail&style=for-the-badge">
+  <a href="">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
+  </a>
 </p>
+
 
   - 🔭 I’m currently working on [Everad](https://everad.com/)
 
