@@ -8,10 +8,6 @@
 
 [![Spotify](https://novatorem-ten-kappa.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yuriipereverziev)
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&cover_image=true&theme=novatorem&bar_color=24d71d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&redirect=true) -->
-
-
-
 🔭 I’m currently working on [Everad](https://everad.com/)
 
 🌱 I’m currently learning **React js**
