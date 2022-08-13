@@ -15,8 +15,7 @@
 
 ### Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&cover_image=true&theme=novatorem&bar_color=63b14e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=yuriipereverziev&cover_image=true&theme=default&bar_color=e01acf&bar_color_cover=true)]]
 
 <p align="left">
     <img src="https://img.shields.io/static/v1?label=telegram&message=Write%20Me&color=2CA5E0&logo=telegram&style=for-the-badge">
