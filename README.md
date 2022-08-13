@@ -1,5 +1,7 @@
 # <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> Hey :wave:!
 
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+
 ### My name is Yurii, and I'm a Frontend Developer
 
 <div id="header" align="center">
