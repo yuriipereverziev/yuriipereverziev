@@ -19,14 +19,16 @@
 </p>
 
 
-- 🔭 I’m currently working on [Everad](https://everad.com/)
+🔭 I’m currently working on [Everad](https://everad.com/)
 
-- 🌱 I’m currently learning **React js**
+🌱 I’m currently learning **React js**
 
-- 🤝 I’m looking for help with [All sorts of IE bugs (nope)](https://code.tutsplus.com/tutorials/9-most-common-ie-bugs-and-how-to-fix-them--net-7764)
+🤝 I’m looking for help
+  with [All sorts of IE bugs (nope)](https://code.tutsplus.com/tutorials/9-most-common-ie-bugs-and-how-to-fix-them--net-7764)
 
-- ⚡ Fun fact **Using a light theme attracts a lot of bugs at night**
-
+⚡ Fun fact **Using a light theme attracts a lot of bugs at night**
+               
+               
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technologies & Tools
 
