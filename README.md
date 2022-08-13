@@ -2,10 +2,6 @@
 
 ### My name is Yurii, and I'm a Frontend Developer
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=umorph&style=flat-square" alt="yurii">
-</p>
-
 ### Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&cover_image=true&theme=novatorem&bar_color=24d71d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&redirect=true)
 
