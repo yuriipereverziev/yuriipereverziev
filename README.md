@@ -15,9 +15,7 @@
 
 ### Spotify Playing
 
-<a href="https://test-ten-gilt-52.vercel.app/now-playing?open">
-    <img src="https://test-ten-gilt-52.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&cover_image=true&theme=novatorem&bar_color=63b14e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <p align="left">
