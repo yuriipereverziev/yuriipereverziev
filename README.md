@@ -2,6 +2,10 @@
 
 ### My name is Yurii, and I'm a Frontend Developer
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 ### Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&cover_image=true&theme=novatorem&bar_color=24d71d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&redirect=true)
 
