@@ -2,7 +2,7 @@
 
 ### My name is Yurii, and I'm a Frontend Developer
 
-### ![](https://komarev.com/ghpvc/?username=yuriipereverziev&color=blueviolet)
+### ![](https://komarev.com/ghpvc/?username=yuriipereverziev&color=blueviolet&style=for-the-badge)
 
 ### Spotify Playing
 
