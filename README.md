@@ -15,7 +15,9 @@
 
 ### Spotify Playing
 
-[![Spotify](https://novatorem-xi-roan-94.vercel.app/api/spotify)](https://open.spotify.com/user/yuriipereverziev)
+<a href="https://spotify-b60vf4cax-yuriipereverziev.vercel.app//now-playing?open">
+    <img src="https://spotify-b60vf4cax-yuriipereverziev.vercel.app//now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
 
 <p align="left">
