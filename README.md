@@ -15,8 +15,8 @@
 
 ### Spotify Playing
 
-<a href="https://spotify-b60vf4cax-yuriipereverziev.vercel.app//now-playing?open">
-    <img src="https://spotify-b60vf4cax-yuriipereverziev.vercel.app//now-playing" width="256" height="64" alt="Now Playing">`
+<a href="https://test-ten-gilt-52.vercel.app/now-playing?open">
+    <img src="https://test-ten-gilt-52.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
 
