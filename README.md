@@ -6,13 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=umorph&style=flat-square" alt="yurii">
 </p>
 
-[//]: # (<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif">)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) 
-[![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) 
-[![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
-
-
 ### Spotify Playing
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&cover_image=true&theme=novatorem&bar_color=24d71d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&redirect=true)
 
