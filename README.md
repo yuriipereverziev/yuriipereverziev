@@ -1,15 +1,15 @@
 # <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> Hey :wave:!
 
-[![Spotify](https://novatorem-ten-kappa.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yuriipereverziev)
-
 ### My name is Yurii, and I'm a Frontend Developer
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
+
 
 ### Spotify Playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&cover_image=true&theme=novatorem&bar_color=24d71d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&redirect=true)
+
+[![Spotify](https://novatorem-ten-kappa.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yuriipereverziev)
+
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&cover_image=true&theme=novatorem&bar_color=24d71d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yuriipereverziev&redirect=true) -->
 
 
 <p align="left">
@@ -19,13 +19,13 @@
 </p>
 
 
-  - 🔭 I’m currently working on [Everad](https://everad.com/)
+- 🔭 I’m currently working on [Everad](https://everad.com/)
 
-  - 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React js**
 
-  - 🤝 I’m looking for help with [All sorts of IE bugs (nope)](https://code.tutsplus.com/tutorials/9-most-common-ie-bugs-and-how-to-fix-them--net-7764)
+- 🤝 I’m looking for help with [All sorts of IE bugs (nope)](https://code.tutsplus.com/tutorials/9-most-common-ie-bugs-and-how-to-fix-them--net-7764)
 
-  - ⚡ Fun fact **Using a light theme attracts a lot of bugs at night**
+- ⚡ Fun fact **Using a light theme attracts a lot of bugs at night**
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technologies & Tools
