@@ -2,7 +2,7 @@
 
 ### My name is Yurii, and I'm a Frontend Developer
 
-### ![](https://komarev.com/ghpvc/?username=yuriipereverziev&color=blueviolet&style=for-the-badge)
+### ![](https://komarev.com/ghpvc/?username=yuriipereverziev&color=090909&style=for-the-badge)
 
 ### Contact Me
 [![Github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)](https://github.com/yuriipereverziev)
@@ -24,41 +24,32 @@ with [All sorts of IE bugs (nope)](https://code.tutsplus.com/tutorials/9-most-co
 ⚡ Fun fact **Using a light theme attracts a lot of bugs at night**
 
 
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technologies & Tools
 
 ### Frontend main stack:
-<p align="left">
-    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>
+![Html5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5)
+![Css3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3)
+![Javascript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)
 
 ### Frontend libraries && Preprocessors
-<p align="left">
-    <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
-    <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-</p>
+![Jquery](https://img.shields.io/badge/-jquery-090909?style=for-the-badge&logo=jquery)
+![Bootstrap](https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
+![Pug](https://img.shields.io/badge/-pug-090909?style=for-the-badge&logo=pug)
+![React](https://img.shields.io/badge/-react-090909?style=for-the-badge&logo=react)
 
 ### Task runners && toolkit
-<p align="left">
-    <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white">
-    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
+![Gulp](https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp)
+![Webpack](https://img.shields.io/badge/-webpack-090909?style=for-the-badge&logo=webpack)
+![Node](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)
 
 ### Graphics editors:
-<p align="left">
-    <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-    <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/-adobe%20photoshop-090909?style=for-the-badge&logo=adobe%20photoshop)
+![Zeplin](https://img.shields.io/badge/-zeplin-090909?style=for-the-badge&logo=zeplin)
+![Avocode](https://img.shields.io/badge/-avocode-090909?style=for-the-badge&logo=avocode)
 
 ### VCS:
-<p align="left">
-    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-[//]: # (<img src="https://github-readme-stats.vercel.app/api?username=Umorph&show_icons=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umorph&layout=compact&hide=html" alt="languages">)
-
+![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)
 
