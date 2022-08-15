@@ -5,9 +5,10 @@
 ### ![](https://komarev.com/ghpvc/?username=yuriipereverziev&color=blueviolet&style=for-the-badge)
 
 ### Contact Me
+[![Github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)](https://github.com/yuriipereverziev)
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/yurii_pereverziev)
-[![Github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)](https://t.me/yurii_pereverziev)
-
+[![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:yuripereverzev@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuriipereverziev/)
 
 ### Spotify Playing
 
