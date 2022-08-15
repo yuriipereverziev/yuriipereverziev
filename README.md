@@ -5,8 +5,8 @@
 ### ![](https://komarev.com/ghpvc/?username=yuriipereverziev&color=blueviolet&style=for-the-badge)
 
 ### Contact Me
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/creativetimofficial) 
-[<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/CreativeTim)
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/yurii_pereverziev)
+[![Github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)](https://t.me/yurii_pereverziev)
 
 
 ### Spotify Playing
@@ -18,11 +18,11 @@
 🌱 I’m currently learning **React js**
 
 🤝 I’m looking for help
-  with [All sorts of IE bugs (nope)](https://code.tutsplus.com/tutorials/9-most-common-ie-bugs-and-how-to-fix-them--net-7764)
+with [All sorts of IE bugs (nope)](https://code.tutsplus.com/tutorials/9-most-common-ie-bugs-and-how-to-fix-them--net-7764)
 
 ⚡ Fun fact **Using a light theme attracts a lot of bugs at night**
-               
-               
+
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Technologies & Tools
 
