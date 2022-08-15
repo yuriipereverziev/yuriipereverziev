@@ -16,12 +16,13 @@
   <tr>
   <td width="50%">
 
+&nbsp; 🎵 Now Playing <br>
 &nbsp; <br> [![Spotify](https://novatorem-ten-kappa.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yuriipereverziev)
 
   </td>
   <td width="50%">
 
-&nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriipereverziev&show_icons=true&theme=merko)](https://github.com/yuriipereverziev)
+&nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriipereverziev&show_icons=true&theme=merko&count_private=true&hide=stars,prs)](https://github.com/yuriipereverziev)
 
   </td>
 </table>
