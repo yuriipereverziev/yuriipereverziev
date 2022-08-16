@@ -27,8 +27,6 @@
 </td>
 </table>
 
-[![Spotify](https://novatorem-ten-kappa.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yuriipereverziev)
-
 [//]: # ([![Spotify]&#40;https://novatorem-ten-kappa.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&#41;]&#40;https://open.spotify.com/user/yuriipereverziev&#41;)
 
 [//]: # ([![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=yuriipereverziev&show_icons=true&theme=merko&#41;]&#40;https://github.com/yuriipereverziev&#41;)
