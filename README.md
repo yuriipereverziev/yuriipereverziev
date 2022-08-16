@@ -23,8 +23,8 @@
   <td width="50%">
 
 &nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriipereverziev&show_icons=true&theme=merko&count_private=true&hide=stars,prs)](https://github.com/yuriipereverziev)
-
-  </td>
+  
+</td>
 </table>
 
 [//]: # ([![Spotify]&#40;https://novatorem-ten-kappa.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&#41;]&#40;https://open.spotify.com/user/yuriipereverziev&#41;)
@@ -68,8 +68,8 @@ with [All sorts of IE bugs (nope)](https://code.tutsplus.com/tutorials/9-most-co
 
 ![Figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-adobe%20photoshop-090909?style=for-the-badge&logo=adobe%20photoshop)
-![Zeplin](https://img.shields.io/badge/-zeplin-090909?style=for-the-badge&logo=zeplin)
-![Avocode](https://img.shields.io/badge/-avocode-090909?style=for-the-badge&logo=avocode)
+![Zeplin](https://custom-icon-badges.herokuapp.com/badge/-zeplin-090909?style=for-the-badge&logo=zeplin)
+![Avocode](https://custom-icon-badges.herokuapp.com/badge/-avocode-090909?style=for-the-badge&logo=avocode)
 
 ### VCS:
 
