@@ -16,8 +16,8 @@
   <tr>
   <td width="50%">
 
-&nbsp; 🎵 Now Playing <br>
-&nbsp; <br> [![Spotify](https://novatorem-ten-kappa.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yuriipereverziev)
+<!-- &nbsp; 🎵 Now Playing <br> -->
+<!-- &nbsp; <br> [![Spotify](https://novatorem-ten-kappa.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yuriipereverziev) -->
 
   </td>
   <td width="50%">
@@ -26,6 +26,8 @@
   
 </td>
 </table>
+
+[![Spotify](https://novatorem-ten-kappa.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yuriipereverziev)
 
 [//]: # ([![Spotify]&#40;https://novatorem-ten-kappa.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&#41;]&#40;https://open.spotify.com/user/yuriipereverziev&#41;)
 
