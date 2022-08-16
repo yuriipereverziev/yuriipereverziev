@@ -16,8 +16,8 @@
   <tr>
   <td width="50%">
 
-<!-- &nbsp; 🎵 Now Playing <br> -->
-<!-- &nbsp; <br> [![Spotify](https://novatorem-ten-kappa.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yuriipereverziev) -->
+&nbsp; 🎵 Now Playing <br>
+&nbsp; <br> [![Spotify](https://novatorem-ten-kappa.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yuriipereverziev)
 
   </td>
   <td width="50%">
@@ -33,7 +33,6 @@
 
 [//]: # ([![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=yuriipereverziev&show_icons=true&theme=merko&#41;]&#40;https://github.com/yuriipereverziev&#41;)
 
-[//]: # ()
 
 🔭 I’m currently working on [Everad](https://everad.com/)
 
