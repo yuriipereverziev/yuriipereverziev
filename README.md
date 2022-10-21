@@ -15,7 +15,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; 🎵 Now Playing <br>
+
 &nbsp; <br> [![Spotify](https://novatorem-spotify-two.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yuriipereverziev)
 
   </td>
