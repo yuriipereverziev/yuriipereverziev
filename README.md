@@ -11,6 +11,10 @@
 [![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:yuripereverzev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuriipereverziev/)
 
+[![Spotify](https://novatorem-spotify-two.vercel.app/api/spotify)](https://open.spotify.com/user/yuriipereverziev)
+
+
+
 
 <table width="100%"> 
   <tr>
