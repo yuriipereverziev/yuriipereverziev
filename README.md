@@ -2,8 +2,8 @@
 
 ### My name is Yurii, and I'm a Frontend Developer
 
-### ![](https://komarev.com/ghpvc/?username=yuriipereverziev&color=090909&style=for-the-badge)
-https://www.codewars.com/users/yuriipereverziev/badges/large
+![](https://komarev.com/ghpvc/?username=yuriipereverziev&color=090909&style=for-the-badge)
+![](https://www.codewars.com/users/yuriipereverziev/badges/large)
 
 ### Contact Me
 
