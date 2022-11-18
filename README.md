@@ -4,6 +4,8 @@
 
 ### ![](https://komarev.com/ghpvc/?username=yuriipereverziev&color=090909&style=for-the-badge)
 
+### ![](https://www.codewars.com/users/yuriipereverziev/badges/large)
+
 ### Contact Me
 
 [![Github](https://img.shields.io/badge/-github-090909?style=for-the-badge&logo=github)](https://github.com/yuriipereverziev)
