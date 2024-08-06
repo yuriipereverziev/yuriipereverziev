@@ -17,12 +17,6 @@
   <td width="50%">
 
 
-&nbsp; <br> [![Spotify](https://novatorem-spotify-two.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yuriipereverziev)
-
-  </td>
-  <td width="50%">
-
-&nbsp; [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriipereverziev&show_icons=true&theme=merko&count_private=true&hide=stars,prs)](https://github.com/yuriipereverziev)
   
 </td>
 </table>
