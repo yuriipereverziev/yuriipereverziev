@@ -12,14 +12,6 @@
 [![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:yuripereverzev@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuriipereverziev/)
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-
-
-  
-</td>
-</table>
 
 [//]: # ([![Spotify]&#40;https://novatorem-ten-kappa.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&#41;]&#40;https://open.spotify.com/user/yuriipereverziev&#41;)
 
