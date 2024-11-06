@@ -18,7 +18,7 @@
 [//]: # ([![Anurag's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=yuriipereverziev&show_icons=true&theme=merko&#41;]&#40;https://github.com/yuriipereverziev&#41;)
 
 
-🔭 I’m currently working on [Everad](https://everad.com/)
+🔭 I’m currently working on [Everad](https://redi.partners/)
 
 🌱 I’m currently learning **React js**
 
